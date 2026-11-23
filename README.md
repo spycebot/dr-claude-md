@@ -12,3 +12,24 @@ With so many websites and web apps being spun up these days, it is a common occu
 To avoid this problem, we present a CLAUDE.md file which is a collection of the common starting point regarded by this team as best practice.
 
 This document has been compiled after running several agentic coding projects, and is all but certain to be further amended in the coming season.
+
+```mermaid
+flowchart LR
+    A(["CLAUDE.md"])
+    A --> B["Claude Code"]
+    B --> C["Project Plan"]
+    B --> D["Road Map"]
+    B --> E["Design"]
+    B --> F["Decisions"]
+    B --> G["Tech Stack"]
+    B --> H["Security"]
+    B --> I["Tests"]
+    %% B --> J["MVP"]
+    C --> J["MVP"]
+    D --> J["MVP"]
+    E --> J["MVP"]
+    F --> J["MVP"]
+    G --> J["MVP"]
+    H --> J["MVP"]
+    I --> J["MVP"]
+```

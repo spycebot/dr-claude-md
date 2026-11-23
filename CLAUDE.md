@@ -107,6 +107,7 @@ Maintain the teset suite under the **Tests** folder `tests/`
 
 ### Conclusion
 
-It is through the maticulous and diligent application of the design principles herein described, under the associated project management paradigm, for the end of providing an excellent web application with a robust secure profile, that we will implement the solution herein described.
-
 The AI agent Claude is able to provide many critical functions, including design evaluation, server management, security audit, test execution, code writing, continuous integration / continuous deployment, and more. 
+
+In coordination with such an agent, and through the maticulous and diligent application of the design principles to which we hope to give life, and under the associated project management paradigm, to the end of providing an excellent and enjoyable web application, with a robust security profile, that we will now and with all good will implement the solution described above.
+
